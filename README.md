@@ -50,6 +50,7 @@
  - [You might not need a CSS framework - Belén Albeza (Esp)](https://www.youtube.com/watch?v=kED5eDjMfGM)
  - [A Modern Front-End Workflow – Umar Hansa](https://www.youtube.com/watch?v=v5r_n6Tq0uk)
  - [Progressing Our Layouts](http://jensimmons.com/presentation/progressing-our-layouts)
+ - [Umar Hansa: An A to Z of CSS](https://www.youtube.com/watch?v=RfoDuM_XilE)
 
 # Backend
 
