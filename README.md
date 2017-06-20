@@ -70,3 +70,18 @@
 - [Uncle Bob: Estimation, What, When, Why](https://skillsmatter.com/skillscasts/8557-estimation-what-when-why-by-robert-martin)
 - [Sandro Mancuso: Testing and refactoring legacy code](https://www.youtube.com/watch?v=JTHMd1nQlSg)
 - [Chad Fowler: Legacy](https://www.youtube.com/watch?v=YruzQgWdv48)
+
+# Software Culture
+
+
+- [GOTO 2016 • Watch Your Communication - How Communication Drives Design • Uwe Friedrichsen ](https://www.youtube.com/watch?v=lJRcDUaFlJ8&index=1&list=PLIMQNEPlkjBNbhpvKp7p50ZlBkcaqO4ua)
+- [Bret Victor The Future of Programming ](https://www.youtube.com/watch?v=8pTEmbeENF4&index=2&list=PLIMQNEPlkjBNbhpvKp7p50ZlBkcaqO4ua)
+- [Make Software Development Simple ](https://www.youtube.com/watch?v=cSwPOpOKr3w&index=3&list=PLIMQNEPlkjBNbhpvKp7p50ZlBkcaqO4ua)
+- [Hammock Driven Development - Rich Hickey ](https://www.youtube.com/watch?v=f84n5oFoZBc&index=4&list=PLIMQNEPlkjBNbhpvKp7p50ZlBkcaqO4ua)
+- [Evaluating Technology – Jeremy Keith | Render 2017 ](https://www.youtube.com/watch?v=wAekLOUpMB4&index=5&list=PLIMQNEPlkjBNbhpvKp7p50ZlBkcaqO4ua)
+- [6. You should use [insert library/framework] it's the bestestest! / Paul Lewis ](https://www.youtube.com/watch?v=_yCz1TA0EL4&index=6&list=PLIMQNEPlkjBNbhpvKp7p50ZlBkcaqO4ua)
+- [GOTO 2015 • Agile is Dead • Pragmatic Dave Thomas ](https://www.youtube.com/watch?v=a-BOSpxYJ9M&index=7&list=PLIMQNEPlkjBNbhpvKp7p50ZlBkcaqO4ua)
+- [Transforming Programming - Dave Thomas ](https://www.youtube.com/watch?v=A76hM3MpEKo&index=8&list=PLIMQNEPlkjBNbhpvKp7p50ZlBkcaqO4ua)
+- [GOTO 2016 • Agile Version 2016 • Dan North ](https://www.youtube.com/watch?v=iFLBG_bilrg&index=9&list=PLIMQNEPlkjBNbhpvKp7p50ZlBkcaqO4ua)
+- [Dan North - Decisions Decisions ](https://www.youtube.com/watch?v=EauykEv_2iA&index=10&list=PLIMQNEPlkjBNbhpvKp7p50ZlBkcaqO4ua)
+- [What makes us feel good about our work? | Dan Ariely ](https://www.youtube.com/watch?v=5aH2Ppjpcho&index=11&list=PLIMQNEPlkjBNbhpvKp7p50ZlBkcaqO4ua)
