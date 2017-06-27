@@ -51,6 +51,7 @@
  - [A Modern Front-End Workflow – Umar Hansa](https://www.youtube.com/watch?v=v5r_n6Tq0uk)
  - [Progressing Our Layouts](http://jensimmons.com/presentation/progressing-our-layouts)
  - [Umar Hansa: An A to Z of CSS](https://www.youtube.com/watch?v=RfoDuM_XilE)
+ - [Refactoring CSS Without Losing Your Mind](https://www.youtube.com/watch?v=kbGYPm9uYfk)
 
 # Backend
 
